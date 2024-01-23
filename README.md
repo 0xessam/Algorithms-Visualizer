@@ -27,4 +27,8 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Open a pull request.
 
-## Media
+## Project Showcase
+
+Check out the Algorithm Visualizer in action on YouTube:
+
+[![Algorithm Visualizer](https://i.ytimg.com/an_webp/nER1btwrhXk/mqdefault_6s.webp?du=3000&sqp=CJ_BwK0G&rs=AOn4CLAbe4slsK790SuJL7B4B6HzCg6_lg)]( https://youtu.be/nER1btwrhXk)
