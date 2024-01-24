@@ -31,4 +31,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 Check out the Algorithm Visualizer in action on YouTube:
 
-[![Algorithm Visualizer](https://i.ytimg.com/an_webp/nER1btwrhXk/mqdefault_6s.webp?du=3000&sqp=CJ_BwK0G&rs=AOn4CLAbe4slsK790SuJL7B4B6HzCg6_lg)]( https://youtu.be/nER1btwrhXk)
+[![Algorithm Visualizer]([https://i.ytimg.com/an_webp/nER1btwrhXk/mqdefault_6s.webp?du=3000&sqp=CJ_BwK0G&rs=AOn4CLAbe4slsK790SuJL7B4B6HzCg6_lg](https://i.ytimg.com/an_webp/nER1btwrhXk/mqdefault_6s.webp?du=3000&sqp=COaaxK0G&rs=AOn4CLA6rOQJggcLIzJgUxCoTgiHiRBS-w)https://i.ytimg.com/an_webp/nER1btwrhXk/mqdefault_6s.webp?du=3000&sqp=COaaxK0G&rs=AOn4CLA6rOQJggcLIzJgUxCoTgiHiRBS-w)]( https://youtu.be/nER1btwrhXk)
